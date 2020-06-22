@@ -1,0 +1,9 @@
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = https://github.com/tmux-plugins/tmux-open
+[submodule "plugins/tmux-urlview"]
+	path = plugins/tmux-urlview
+	url = https://github.com/tmux-plugins/tmux-urlview
+[submodule "plugins/tmux-prefix-highlight"]
+	path = plugins/tmux-prefix-highlight
+	url = https://github.com/tmux-plugins/tmux-prefix-highlight.git
